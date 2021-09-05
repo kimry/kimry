@@ -2,7 +2,7 @@ Hello My name is Riyoung.
 
 Hongik.univ
 
-Business Management/Computer science
+Business Management/Computer Science
 
 <!--
 **kimry/kimry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
